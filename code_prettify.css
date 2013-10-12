@@ -1,0 +1,35 @@
+pre { background-color: rgb(238, 238, 238)  !important;}
+.str {
+    color: #800000 !important;
+}
+.kwd {
+    color: #00008b !important;
+}
+.com {
+    color: gray !important;
+}
+.typ {
+    color: #2b91af !important;
+}
+.lit {
+    color: #800000 !important;
+}
+.pun {
+    color: #000000 !important;
+}
+.pln {
+    color: #000000 !important;
+}
+.tag {
+    color: #800000 !important;
+}
+.atn {
+    color: #ff0000 !important;
+}
+.atv {
+    color: #0000ff !important;
+}
+.dec {
+    color: #800080 !important;
+}
+
